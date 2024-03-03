@@ -4,7 +4,7 @@
 
 a= input("Enter the values seperated by commas: ")
 
-list= a.split()
+list= a.split(",")
 
 tuple=tuple(list)
 
